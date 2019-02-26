@@ -3,7 +3,7 @@
 Rails starter for a Restful API :
 
 # Gems included
-- Database: PosgreSQL
+- Database: Sqlite3
 - Test framework: Rspec
 - Fixture replacement: FactoryBot
 - Json serialization: Fast json api
